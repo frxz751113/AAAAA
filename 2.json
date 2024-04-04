@@ -32,7 +32,7 @@
 
 
 //jar站点
-{"key":"酷看","name":"💥酷看秒播💥","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
+{"key":"酷看","name":"💥酷看秒播💥","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 {"key":"原创","name":"☀原创无广☀","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 {"key":"白嫖","name":"💥白飘无广💥","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/e923062980f7faf406631ac6799c567e50020686/%E4%B8%93%E7%94%A8.txt"},
 {"key":"鑫鑫影院","name":"💥鑫鑫影院💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/e923062980f7faf406631ac6799c567e50020686/%E4%B8%93%E7%94%A8.txt"},

@@ -3,9 +3,7 @@
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
-"sites": [
-//js站点
-{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt"},
+"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt"},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷视频.js"},
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/腾讯视频.js"},
 {"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇艺视频.js"},
@@ -20,18 +18,7 @@
 {"key":"色猫资源","name":"色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"黄AV资源", "name":"黄AV资源", "type":0, "api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KK写真资源","name":"KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
-
-//jar站点
-{"key":"鑫鑫影院","name":"💥鑫鑫影院💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/e923062980f7faf406631ac6799c567e50020686/%E4%B8%93%E7%94%A8.txt"},
-
-
-
-
-
-{"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/py_cctv.py"},
-{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"}
-],
+{"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/py_cctv.py"}],
 
 "parses": [ 
 //{"name": "超级解析1","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},

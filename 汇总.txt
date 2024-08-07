@@ -1,5 +1,0 @@
-央视频道,#genre#
-LoveNature4K, https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-浙江频道,#genre#
-浙江杭州余杭综合, http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8

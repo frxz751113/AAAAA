@@ -76,7 +76,7 @@ NowViu剧集台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-viu-drama
 PremierSports,http://cdn9.1678520.xyz/xsj2.1.php?id=premiersports
 ROCK,http://37.27.111.214:8080/live/70/hls.m3u8
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK32[720p],http://metatvpro.xyz:25461/W1045/4329/12218
+RTHK32,http://metatvpro.xyz:25461/W1045/4329/12218
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 RUTVBRICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
@@ -186,7 +186,7 @@ elta生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 互动英语,http://37.27.111.214:8080/live/54/hls.m3u8
-华纳影视[720p],http://metatvpro.xyz:25461/W1045/4329/13145
+华纳影视,http://metatvpro.xyz:25461/W1045/4329/13145
 华视,rtmp://220.130.201.73/sat/tv111
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 华语剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-drama
@@ -330,7 +330,7 @@ ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&s
 ASTRO华丽台翡MAS,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts&play_token=b0RYEywy0z
 CMUSIC音乐台,http://37.27.111.214:8080/live/72/hls.m3u8
 CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
-Dreamworks[720p],http://metatvpro.xyz:25461/W1045/4329/14225
+Dreamworks,http://metatvpro.xyz:25461/W1045/4329/14225
 ELEVENSPORTS2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u
 ELEVENSPORTS2PL,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 FOXSPORTS2TV,http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
@@ -363,14 +363,14 @@ WWE,http://cdn9.1678520.xyz/xsj2.1.php?id=wwe
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-翡翠华丽台[720p],http://metatvpro.xyz:25461/W1045/4329/54
+翡翠华丽台,http://metatvpro.xyz:25461/W1045/4329/54
 翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 凤凰香港,http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 凤凰香港,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-hk
 凤凰香港,http://extraott.com:80/live/7921751389/6097373662/62822.m3u8
-凤凰中文[720p],http://metatvpro.xyz:25461/W1045/4329/61
+凤凰中文,http://metatvpro.xyz:25461/W1045/4329/61
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 公视新闻,http://194.87.101.118/live.m3u8?c=8

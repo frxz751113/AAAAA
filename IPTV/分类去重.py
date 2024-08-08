@@ -38,7 +38,7 @@ def check_and_write_file(input_file, output_file, keywords):
         print(f"文件已提取关键词并保存为: {output_file}")
 
 # 按类别提取关键词并写入文件
-check_and_write_file('TW.txt',  'a0.txt',  keywords="港澳频道, AMC, 功夫台, 戏剧台, 中视经典, 影剧, 影视, 影迷, 美亚电影, 龙华电影台, ASTRO, 音乐台, 开码, 影迷, 经典")
+check_and_write_file('TW.txt',  'a0.txt',  keywords="港澳频道, AMC, 功夫台, 戏剧, 中视经典, 影剧, 影视, 影迷, 美亚电影, 龙华电影台, ASTRO, 音乐台, 开码, 影迷, 经典")
 check_and_write_file('TW.txt',  'a.txt',  keywords="港澳频道, ,")
 
 

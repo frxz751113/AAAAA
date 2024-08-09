@@ -78,14 +78,16 @@ for line in lines:
   unique_lines.append(line)
   seen_lines.add(line)
 
+for line in seen_lines.input("TW.txt", inplace=True):   #打开临时文件原地替换关键字
+    line = line.replace("﻿,ht", "[EXO解码],ht")                         #编辑替换字
+    print(line, end="")   
+
+
 # 将唯一的行写入新的文档 
 with open('TW.txt', 'w', encoding="utf-8") as file:
  file.writelines(unique_lines)
 
 
-for line in fileinput.input("TW.txt", inplace=True):   #打开临时文件原地替换关键字
-    line = line.replace("﻿,ht", "[EXO解码],ht")                         #编辑替换字
-    print(line, end="")   
 
 
 ################################################################################################任务结束，删除不必要的过程文件

@@ -25,7 +25,6 @@ TVB千禧经典台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 影视3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
 影视[720p],http://37.27.111.214:8080/live/108/hls.m3u8
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
-民视影剧[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-drama
 纬来戏剧[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-drama
 美亚电影台[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=meiah-movies
 美亚电影台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
@@ -143,7 +142,6 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立都会台[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=settv-city
-东森幼幼台[1080p],http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-emovie
 东森电影[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-movie
@@ -175,7 +173,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺[1080p],http://cdn9.1678520.xyz/xsj2.1.php?id=grt
-八度空间[1080p],http://metatvpro.xyz:25461/W1045/4329/6
 凤凰中文[1080p],http://146.56.153.245:20121/bysid/258
 凤凰中文[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-cn
 凤凰中文[720p],http://metatvpro.xyz:25461/W1045/4329/61
@@ -201,9 +198,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 华视[720p],rtmp://220.130.201.73/sat/tv111
 华视[720p],rtmp://f13h.mine.nu/sat/tv111
 华视新闻[720p],http://37.27.111.214:8080/live/8/hls.m3u8
-华语剧台[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-drama
 博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
-博斯无限[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-wx
 博斯网球[720p],http://37.27.111.214:8080/live/16/hls.m3u8
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯运动1[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast1
@@ -268,7 +263,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 民视台湾台[720p],http://37.27.111.214:8080/live/5/hls.m3u8
 民视旅游[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-travel
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
-民视综艺[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-reality
 港台电视33[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 港台电视34[1080p],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?
 港台电视34[720p],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?
@@ -305,8 +299,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美国中文电视[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=sinovision
-美食星球[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=food-planet
 翡翠华丽台[720p],http://metatvpro.xyz:25461/W1045/4329/54
 翡翠台[1080p],http://113.83.152.56:8182/bynumber/1
 翡翠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12205
@@ -315,7 +307,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 翡翠台[1080p],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠台[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=feicui
 车迷TV[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=motorvision
-迪士尼[720p],http://cdn9.1678520.xyz/xsj2.1.php?id=disney
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8
 靖天电影台[1080p],http://cdn9.1678520.xyz/xsj2.1.php?id=jtdy
 靖天育乐台[1080p],http://cdn9.1678520.xyz/xsj2.1.php?id=jtyl

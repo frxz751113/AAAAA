@@ -67,27 +67,32 @@ with open("TW.txt", "w", encoding="utf-8") as output:
 # 打开文档并读取所有行 
 with open('TW.txt', 'r', encoding="utf-8") as file:
  lines = file.readlines()
- 
 # 使用列表来存储唯一的行的顺序 
  unique_lines = [] 
  seen_lines = set() 
-
 # 遍历每一行，如果是新的就加入unique_lines 
 for line in lines:
  if line not in seen_lines:
   unique_lines.append(line)
   seen_lines.add(line)
-
-for line in seen_lines.input("TW.txt", inplace=True):   #打开临时文件原地替换关键字
-    line = line.replace("﻿,ht", "[EXO解码],ht")                         #编辑替换字
-    print(line, end="")   
-
-
 # 将唯一的行写入新的文档 
 with open('TW.txt', 'w', encoding="utf-8") as file:
  file.writelines(unique_lines)
-
-
+####################################################
+#####################################定义替换规则的字典,对整行内的多余标识内容进行替换
+replacements = {
+        ",ht": "[EXO解码],ht"
+}
+# 打开原始文件读取内容，并写入新文件
+with open('TW.txt', 'r', encoding='utf-8') as file:
+    lines = file.readlines()
+# 创建新文件并写入替换后的内容
+with open('TW.txt', 'w', encoding='utf-8') as new_file:
+    for line in lines:
+        for old, new in replacements.items():
+            line = line.replace(old, new)
+        new_file.write(line)
+print("替换完成，新文件已保存。")
 
 
 ################################################################################################任务结束，删除不必要的过程文件

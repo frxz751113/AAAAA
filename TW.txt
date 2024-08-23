@@ -19,7 +19,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
@@ -44,7 +44,7 @@ CinemaWorld[720p],http://37.27.111.214:8080/live/30/hls.m3u8
 Cinemax[720p],https://test.zapi.us.kg/?id=cinemax
 ColorsHindi[720p],https://test.zapi.us.kg/?id=colorshindi
 ColorsTamil[720p],https://test.zapi.us.kg/?id=colorstamil
-DMAX[1080p],https://test.zapi.us.kg/?id=dmax
+DMAX[720p],https://test.zapi.us.kg/?id=dmax
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
 DidikTV7[720p],https://test.zapi.us.kg/?id=didiktv7
 ELEVEN1[720p],rtmp://f13h.mine.nu/sat/tv731
@@ -173,7 +173,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中视新闻[720p],https://test.zapi.us.kg/?id=ctv-news
 中视菁采台[720p],https://test.zapi.us.kg/?id=bravo
 中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
-亚洲卫视[1080p],https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亚洲旅游台[720p],http://37.27.111.214:8080/live/10/hls.m3u8
 亚洲旅游台[720p],https://test.zapi.us.kg/?id=asia-travel
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
@@ -280,7 +279,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门资讯[720p],http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 澳门资讯[720p],https://test.zapi.us.kg/?id=tdm-information
-澳门风云[1080p],https://lunbo.freetv.top/yy/1459243913
+澳门风云[720p],https://lunbo.freetv.top/yy/1459243913
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[720p],https://test.zapi.us.kg/?id=zglgtx
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -291,7 +290,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
+纬来体育[720p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来日本[720p],https://test.zapi.us.kg/?id=videoland-japan
 纬来精采[720p],http://61.221.215.25:8800/hls/48/index.m3u8

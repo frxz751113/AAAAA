@@ -198,6 +198,7 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 北京纪实8K[4320p][7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 卫视频道,#genre#
+凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 人间卫视[1280*720],http://37.27.111.214:8080/live/101/hls.m3u8

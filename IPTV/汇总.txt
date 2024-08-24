@@ -1,4 +1,4 @@
-上海移动,#genre#
+央视频道,#genre#
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
 CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
@@ -20,8 +20,7 @@ CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/
 CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 纯享4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 欢笑剧场4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
-CETV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
-CETV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
+卫视频道,#genre#
 北京卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021288/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021288
 湖南卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032695/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032695
 浙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014260/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014260
@@ -48,6 +47,7 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/i
 重庆卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001096/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001096
 青海卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
+上海频道,#genre#
 北京卡酷少儿,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7851974109718180595/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=7851974109718180595
 北京纪实科教,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
 七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
@@ -62,17 +62,9 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/i
 上海新闻,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031110/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031110
 欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
 法治天地,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424
-游戏风云,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114
-生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000019634/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000019634
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
-纪实人文,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016545/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016545
 都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031111/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031111
 上海都市,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000018926/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018926
-金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
-魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
-快乐垂钓,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
-茶频道,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031209/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031209
-金鹰纪实,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
+影视频道,#genre#
 NewTv黑莓动画,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
 NewTv黑莓电影,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
 NewTv东北热剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266013/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266013
@@ -101,7 +93,7 @@ NewTv魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 咪咕视频3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
 咪咕视频4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
 咪咕视频5,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
-央视内网,#genre#
+央视频道,#genre#
 CCTV1[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
 CCTV2[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
 CCTV3[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
@@ -128,7 +120,7 @@ CCTV17[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/00000001000000
 家庭影院[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
 金鹰卡通[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
 影迷电影[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
-卫视内网,#genre#
+卫视频道,#genre#
 湖北卫视[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
 湖南卫视[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000174
 安徽卫视[湖北移动内网],rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000325

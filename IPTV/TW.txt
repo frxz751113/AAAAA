@@ -28,7 +28,7 @@ AXN,https://test.zapi.us.kg/?id=axn
 DMAX,https://test.zapi.us.kg/?id=dmax
 MTV,http://37.27.111.214:8080/live/25/hls.m3u8
 Moonbug,https://test.zapi.us.kg/?id=moonbug
-MovieMovie,https://test.zapi.us.kg/?id=moviemovie
+Movie,https://test.zapi.us.kg/?id=moviemovie
 NowViu剧集台,https://test.zapi.us.kg/?id=now-viu-drama
 Now华剧台,https://test.zapi.us.kg/?id=now-chinese-drama
 TVBS台剧台,https://test.zapi.us.kg/?id=tvbs-taiju

@@ -124,15 +124,12 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS台剧台[720p],https://test.zapi.us.kg/?id=tvbs-taiju
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS综艺台[720p],https://test.zapi.us.kg/?id=tvbs-zongyi
-TVBTHAI[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 TVB亚洲剧台[720p],https://test.zapi.us.kg/?id=tvb-asia-drama
 TVB华剧台[720p],https://test.zapi.us.kg/?id=golden-chinese-drama
 TVB无线新闻[720p],http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB星河台[720p],https://test.zapi.us.kg/?id=tvb-xinghe
-TVB泰国台[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
 TVB粤语片台[720p],https://test.zapi.us.kg/?id=tvb-yueyu
 TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
-TVB香港直播台[720p],https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 TVS[720p],https://test.zapi.us.kg/?id=tvs
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 USFOXWeather[720p],http://doubleclicktv.live:80/70376812/52663544/994
@@ -153,7 +150,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
-三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -272,7 +269,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 港石金曲[720p],http://61.221.215.25:8800/hls/49/index.m3u8
 澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/index.m3u8
 澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视澳门[720p],https://test.zapi.us.kg/?id=tdm
 澳门体育[720p],http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
@@ -281,13 +277,11 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 澳门风云[720p],https://lunbo.freetv.top/yy/1459243913
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[720p],https://test.zapi.us.kg/?id=zglgtx
-环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
-神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721

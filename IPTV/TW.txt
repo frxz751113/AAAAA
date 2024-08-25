@@ -47,7 +47,6 @@ TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
 东森幼幼台,https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片,https://test.zapi.us.kg/?id=ebc-emovie
-东森超视,https://test.zapi.us.kg/?id=ebc-super
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 中天亚洲,https://test.zapi.us.kg/?id=cti-asia
 中天娱乐,https://test.zapi.us.kg/?id=cti-yule
@@ -55,8 +54,8 @@ TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
 中视,https://test.zapi.us.kg/?id=ctv
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,https://test.zapi.us.kg/?id=ctv-news
-中视青采,https://test.zapi.us.kg/?id=bravo
 中视青采,http://37.27.111.214:8080/live/48/hls.m3u8
+中视青采,https://test.zapi.us.kg/?id=bravo
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 人间卫视,http://37.27.111.214:8080/live/101/hls.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -77,8 +76,8 @@ TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
 寰宇新闻台,https://test.zapi.us.kg/?id=global-news
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 探索亚洲,http://37.27.111.214:8080/live/11/hls.m3u8
-探索亚洲,https://test.zapi.us.kg/?id=discovery-asia
 探索亚洲,https://test.zapi.us.kg/?id=discovery
+探索亚洲,https://test.zapi.us.kg/?id=discovery-asia
 旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台,https://test.zapi.us.kg/?id=tvb-news

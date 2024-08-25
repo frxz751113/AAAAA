@@ -15,7 +15,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
@@ -29,7 +29,6 @@ DMAX[720p],https://test.zapi.us.kg/?id=dmax
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 Moonbug[1080p],https://test.zapi.us.kg/?id=moonbug
 Movie[720p],https://test.zapi.us.kg/?id=moviemovie
-NowViu剧集台[720p],https://test.zapi.us.kg/?id=now-viu-drama
 Now华剧台[720p],https://test.zapi.us.kg/?id=now-chinese-drama
 TVBS台剧台[720p],https://test.zapi.us.kg/?id=tvbs-taiju
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8

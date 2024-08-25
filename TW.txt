@@ -54,6 +54,7 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 无线新闻台[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],https://test.zapi.us.kg/?id=tvb-news
 民视综艺[720p],https://test.zapi.us.kg/?id=ftv-reality
+环球电视[720p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美国中文电视[720p],https://test.zapi.us.kg/?id=sinovision

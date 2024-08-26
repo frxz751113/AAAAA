@@ -15,7 +15,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
-翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
@@ -29,6 +29,7 @@ DMAX[720p],https://test.zapi.us.kg/?id=dmax
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 Moonbug[1080p],https://test.zapi.us.kg/?id=moonbug
 Movie[720p],https://test.zapi.us.kg/?id=moviemovie
+NowViu剧集台[720p],https://test.zapi.us.kg/?id=now-viu-drama
 Now华剧台[720p],https://test.zapi.us.kg/?id=now-chinese-drama
 TVBS台剧台[720p],https://test.zapi.us.kg/?id=tvbs-taiju
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
@@ -43,6 +44,7 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 三立综合台[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
 三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
+东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
@@ -82,13 +84,12 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 民视综艺[720p],https://test.zapi.us.kg/?id=ftv-reality
 猪哥亮歌厅秀[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[720p],https://test.zapi.us.kg/?id=zglgtx
-环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视[720p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美国中文电视[720p],https://test.zapi.us.kg/?id=sinovision
-翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8
 靖天资讯台[1080p],https://test.zapi.us.kg/?id=jtzx
 非凡新闻[720p],https://test.zapi.us.kg/?id=unique-business-news

@@ -36,7 +36,7 @@ TVB粤语片台[720p],https://test.zapi.us.kg/?id=tvb-yueyu
 TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合台[720p],http://37.27.111.214:8080/live/31/hls.m3u8
-三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -77,7 +77,6 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 民视第一台[720p],https://test.zapi.us.kg/?id=ftv-one
 民视综艺[720p],https://test.zapi.us.kg/?id=ftv-reality
 猪哥亮歌厅秀[720p],http://37.27.111.214:8080/live/35/hls.m3u8
-环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8

@@ -12,7 +12,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影视[720p],http://37.27.111.214:8080/live/108/hls.m3u8
 影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
-翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 龙华戏剧[720p],http://37.27.111.214:8080/live/41/hls.m3u8
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
@@ -35,7 +35,7 @@ TVB粤语片台[720p],https://test.zapi.us.kg/?id=tvb-yueyu
 TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合台[720p],http://37.27.111.214:8080/live/31/hls.m3u8
-三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -48,7 +48,6 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 中视新闻[720p],https://test.zapi.us.kg/?id=ctv-news
 中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
 中视青采[720p],https://test.zapi.us.kg/?id=bravo
-亚洲卫视[1080p],https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
@@ -62,7 +61,6 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 华视新闻[720p],http://37.27.111.214:8080/live/8/hls.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映频道[720p],https://test.zapi.us.kg/?id=celestial
-天良综合台[1080p],http://60.248.91.20:8000/main
 寰宇新闻台[720p],https://test.zapi.us.kg/?id=global-news
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探索亚洲[720p],http://37.27.111.214:8080/live/11/hls.m3u8

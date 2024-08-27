@@ -35,7 +35,7 @@ TVB粤语片台[720p],https://test.zapi.us.kg/?id=tvb-yueyu
 TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合台[720p],http://37.27.111.214:8080/live/31/hls.m3u8
-三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -60,7 +60,9 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 凤凰香港[720p],https://test.zapi.us.kg/?id=phtv-hk
 动物星球频道[720p],https://test.zapi.us.kg/?id=animal-planet
 华视新闻[720p],http://37.27.111.214:8080/live/8/hls.m3u8
+大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映频道[720p],https://test.zapi.us.kg/?id=celestial
+天良综合台[1080p],http://60.248.91.20:8000/main
 寰宇新闻台[720p],https://test.zapi.us.kg/?id=global-news
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探索亚洲[720p],http://37.27.111.214:8080/live/11/hls.m3u8

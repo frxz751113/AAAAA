@@ -1,7 +1,6 @@
 港澳频道,#genre#
 TVN电影台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=41
 popc电影台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=38
-东森电影台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=86
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 影剧[720p],http://37.27.111.214:8080/live/88/hls.m3u8
@@ -11,7 +10,6 @@ popc电影台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=38
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 美亚电影台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=25
-重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 靖天电影台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=150
 靖洋戏剧台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=53
 龙华戏剧[720p],http://37.27.111.214:8080/live/41/hls.m3u8
@@ -44,11 +42,11 @@ elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 hokkotv[720p],http://37.27.111.214:8080/live/1/hls.m3u8
 momo[720p],http://37.27.111.214:8080/live/3/hls.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
-now华剧台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=116
 三立新闻台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=79
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=75
 东森洋片台[1080p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=87
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
@@ -61,7 +59,6 @@ now华剧台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=116
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 全球财经[720p],http://37.27.111.214:8080/live/64/hls.m3u8
-八大笫一台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=56
 凤凰卫视[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=122
 凤凰资讯[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=121
 凤凰香港台[720p],http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=123

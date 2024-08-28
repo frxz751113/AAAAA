@@ -16,12 +16,6 @@ CCTV12,http://video.qd.sdu.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc049759
 CCTV13,http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/index.m3u8
 CCTV14,http://video.qd.sdu.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/index.m3u8
 CCTV15,http://video.qd.sdu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/index.m3u8
-石家庄娱乐,http://api2.52tb.xyz/info?id=488&token=20230218htjgzi
-BRTV卡酷少儿,http://video.qd.sdu.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
-BRTV生活,http://video.qd.sdu.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
-BRTV文艺,http://video.qd.sdu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
-BRTV新闻,http://video.qd.sdu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
-BRTV影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
@@ -88,7 +82,12 @@ CCTV17,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV17,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990771002896/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-北京纪实8K[4320p],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实8K[4320p],http://49.7.69.235/downflv.北京cloud.com/8klive/8kliveok.m3u8
+北京卡酷少儿,http://video.qd.sdu.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
+北京生活,http://video.qd.sdu.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
+北京文艺,http://video.qd.sdu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
+北京新闻,http://video.qd.sdu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
+北京影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 世界地理,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320$湖北内网
 第一剧场,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305$湖北内网
@@ -315,7 +314,7 @@ CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990771002896/ottrrs.hl.chinamo
 海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
-BRTV影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
+北京影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 贝贝影视,http://maomao.kandiantv.cn/douyu1.php?id=431460
 欧美影视,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true

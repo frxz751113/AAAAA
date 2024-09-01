@@ -2,6 +2,7 @@
 AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 CMUSIC音乐台[720p],http://37.27.111.214:8080/live/72/hls.m3u8
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
+东森戏剧[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8

@@ -141,8 +141,6 @@ VOA,http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
 动画台,http://shuma004.chunfengyun.top:8080/live/57/hls.m3u8
 动漫,http://shuma004.chunfengyun.top:8080/live/105/hls.m3u8
 动漫2,http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
-东森购物,http://shuma004.chunfengyun.top:8080/live/61/hls.m3u8
-东森购物,http://shuma004.chunfengyun.top:8080/live/66/hls.m3u8
 东森新闻,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
 哆啦A梦,http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
 公视戏剧,http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8

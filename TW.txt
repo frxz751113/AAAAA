@@ -43,7 +43,6 @@ LUXE[720p],http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
 MCE[720p],http://37.27.111.214:8080/live/98/hls.m3u8
 MCE[720p],http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
 PETCLUB[720p],http://37.27.111.214:8080/live/81/hls.m3u8
-PETCLUB[720p],http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
 ROCKACTION[720p],http://37.27.111.214:8080/live/94/hls.m3u8
 ROCKACTION[720p],http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
 ROCK[720p],http://37.27.111.214:8080/live/70/hls.m3u8
@@ -61,7 +60,6 @@ VOA[720p],http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
 elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 hokkotv[720p],http://37.27.111.214:8080/live/1/hls.m3u8
 nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
-三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8

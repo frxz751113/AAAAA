@@ -145,7 +145,7 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮[720p],http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
 环宇新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视[720p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧2[720p],http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
 电视剧3[720p],http://37.27.111.214:8080/live/111/hls.m3u8

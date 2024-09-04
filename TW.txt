@@ -90,6 +90,10 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 动物星球[720p],http://61.221.215.25:8800/hls/57/index.m3u8
 动画台[720p],http://shuma004.chunfengyun.top:8080/live/57/hls.m3u8
 動畫台[720p],http://37.27.111.214:8080/live/57/hls.m3u8
+博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
+博斯无限[720p],http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
+博斯网球[720p],http://37.27.111.214:8080/live/16/hls.m3u8
+博斯网球[720p],http://shuma004.chunfengyun.top:8080/live/16/hls.m3u8
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯运动1[720p],http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
@@ -112,6 +116,7 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧2[720p],http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
+电视剧3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
 电视剧3[720p],http://shuma004.chunfengyun.top:8080/live/111/hls.m3u8
 电视剧[720p],http://37.27.111.214:8080/live/108/hls.m3u8
 电视剧[720p],http://shuma004.chunfengyun.top:8080/live/108/hls.m3u8
@@ -120,7 +125,6 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 综艺[720p],http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 超人[720p],http://37.27.111.214:8080/live/110/hls.m3u8
 超人[720p],http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8

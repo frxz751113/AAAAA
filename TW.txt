@@ -30,6 +30,8 @@ FESTIVAL[720p],http://37.27.111.214:8080/live/83/hls.m3u8
 FESTIVAL[720p],http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
 GOOD2[720p],http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD2[720p],http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
+HISTORY[720p],http://37.27.111.214:8080/live/27/hls.m3u8
+HISTORY[720p],http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
 HITS[720p],http://37.27.111.214:8080/live/28/hls.m3u8
 HITS[720p],http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
 HakkaTV[720p],http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
@@ -108,6 +110,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 博斯网球[720p],http://shuma004.chunfengyun.top:8080/live/16/hls.m3u8
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯运动1[720p],http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
+博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 哆啦A梦[720p],http://37.27.111.214:8080/live/107/hls.m3u8
 哆啦A梦[720p],http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -143,6 +146,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 综艺[720p],http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 超人[720p],http://37.27.111.214:8080/live/110/hls.m3u8
 超人[720p],http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8

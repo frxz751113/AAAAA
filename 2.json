@@ -21,7 +21,7 @@
 {"key":"荐片","name":"🎀茶秀荐片🎀","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/83.jar"},
 //{"key":"热播","name":"🎀热播App🎀","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",
-	"ext": {"滤词": "","直接播放": "0",
+	"ext": {"滤词": "","直接播放": "0","jar":"https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/A.jar",
         "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
         "首页": "90","起始页": "1",
         "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",

@@ -62,6 +62,7 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
@@ -100,7 +101,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 动漫2[720p],http://37.27.111.214:8080/live/106/hls.m3u8
 动漫2[720p],http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
@@ -143,7 +143,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮[720p],http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
-环宇新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧2[720p],http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
@@ -158,6 +157,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 综艺[720p],http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 超人[720p],http://37.27.111.214:8080/live/110/hls.m3u8
 超人[720p],http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8

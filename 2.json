@@ -1,4 +1,7 @@
-{"lives": [{"name": "live","type": 0,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+{"lives": [{"name": "live","type": 0,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "live","type": 0,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/网络收集.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}，
+{"name": "live","type": 0,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/组播优选.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+],
 
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/直播转点播.js",
      "ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/tv.json",  "jar": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/直转点.jar"},

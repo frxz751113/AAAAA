@@ -1,12 +1,11 @@
 {"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",
 "lives": [#"playerType": 1,"ua": "okhttp/3.12.13",
-{"name": "综合源","type": 0,"pass": true,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "组播优选","type": 0,"pass": true,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/组播优选.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "网络收集","type": 0,"pass": true,"url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/网络收集.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name": "综合源","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "组播优选","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/组播优选.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "网络收集","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/网络收集.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 
-"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/直播转点播.js",
-     "ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/tv.json",  "jar": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/直转点.jar"},
+"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/直播转点播.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/tv.json",  "jar": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/直转点.jar"},
 {"key":"豪华资源","name":"💥超级极速💥","type": 1, "api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
 {"key":"dj5","name":"🎀哔哩短剧🎀","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/json/哔哩哔哩.json","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/83.jar"},
 {"key":"drpy_js_奇珍异兽","name":"🎀奇艺官方🎀","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/奇珍异兽.js"},

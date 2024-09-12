@@ -3,10 +3,6 @@ import datetime
 import os
 import subprocess
 
-# 设置 Git 用户信息
-subprocess.run(['git', 'config', '--global', 'user.email', 'actions@126.com'])
-subprocess.run(['git', 'config', '--global', 'user.name', 'GitHub Action'])
-
 # 读取 JSON 文件路径
 json_file_path = '2.json'
 

@@ -9,11 +9,13 @@ json_file_path = '2.json'
 # 记录时间的文件路径
 time_file_path = 'last_update_time.txt'
 
-# 尝试读取 JSON 文件，如果格式错误则尝试加载空列表而不是空字典
 try:
+    print(f"Attempting to read JSON from {json_file_path}")
     with open(json_file_path, 'r') as f:
         data = json.load(f)
+    print(f"Successfully read JSON data: {data}")
 except json.JSONDecodeError:
+    print(f"Failed to read JSON. Initializing empty data structure.")
     data = []
 
 # 获取当前日期
@@ -27,7 +29,6 @@ urls_to_replace = [
     # 添加更多需要替换的网址和新内容对
 ]
 
-# 遍历 JSON 数据查找并修改特定网址
 new_data = []
 for item in data:
     if isinstance(item, dict) and 'url' in item:
@@ -42,7 +43,7 @@ for item in data:
 def replace_in_url(url, old_part, new_part):
     return url.replace(old_part, new_part)
 
-# 写入修改后的 JSON 文件
+print(f"Writing updated data to {json_file_path}")
 with open('2.json', 'w') as f:
     json.dump(new_data, f, indent=4)
 
@@ -54,4 +55,3 @@ with open(time_file_path, 'w') as time_file:
 subprocess.run(['git', 'add', json_file_path, time_file_path])
 subprocess.run(['git', 'commit', '-m', 'Updated JSON and time file'])
 subprocess.run(['git', 'push', 'origin', 'main'])
- 

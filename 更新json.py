@@ -54,5 +54,4 @@ with open(time_file_path, 'w') as time_file:
 subprocess.run(['git', 'add', json_file_path, time_file_path])
 subprocess.run(['git', 'commit', '-m', 'Updated JSON and time file'])
 subprocess.run(['git', 'push', 'origin', 'main'])
- 
  

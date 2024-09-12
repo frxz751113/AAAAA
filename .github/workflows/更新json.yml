@@ -2,8 +2,11 @@ name: 更新json
 
 on:
   schedule:
-    - cron: '0 0,8,16 * * *'  # 每天凌晨执行
-
+    - cron: '10 16 * * *' # 这里更改自动运行的时间
+  workflow_dispatch:
+    branches:
+      - main
+      
 jobs:
   update_json:
     runs-on: ubuntu-latest

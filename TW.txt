@@ -87,7 +87,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 中视青采[720p],http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
 互动英语[720p],http://37.27.111.214:8080/live/54/hls.m3u8
 互动英语[720p],http://shuma004.chunfengyun.top:8080/live/54/hls.m3u8
-亚洲卫视[1080p],https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亚洲旅游[720p],http://37.27.111.214:8080/live/10/hls.m3u8
 人间卫视[720p],http://shuma004.chunfengyun.top:8080/live/101/hls.m3u8
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -134,6 +133,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮[720p],http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
+环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧2[720p],http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
 电视剧3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
@@ -145,6 +145,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 综艺[720p],http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 超人[720p],http://37.27.111.214:8080/live/110/hls.m3u8
 超人[720p],http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8

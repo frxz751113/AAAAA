@@ -1,0 +1,33 @@
+name: 更新json
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'  # 每天凌晨执行
+
+jobs:
+  update_json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pytz
+
+      - name: Run Python script
+        run: |
+          python /py/更新json.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add.
+          git commit -m "Update JSON and record time"
+          git push

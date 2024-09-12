@@ -33,4 +33,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git add
           git commit -m "Update JSON and record time"
+          git config suggest.addEmptyPathspec false
           git push

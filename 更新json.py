@@ -3,6 +3,10 @@ import datetime
 import os
 import subprocess
 
+# 设置 Git 用户信息
+subprocess.run(['git', 'config', '--global', 'user.email', 'actions@126.com'])
+subprocess.run(['git', 'config', '--global', 'user.name', 'GitHub Action'])
+
 # 读取 JSON 文件路径
 json_file_path = '2.json'
 
@@ -25,7 +29,7 @@ current_date = now.strftime("%m%d")
 # 定义要替换的网址和对应的新内容
 urls_to_replace = [
     ('https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt', f"{current_date}综合源"),
-    ('https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/网络收集.txt', f"{current_date}网络收集"),
+    ('http://wp.wadg.pro/down.php/直播源2.txt', f"{current_date}直播源2"),
     # 添加更多需要替换的网址和新内容对
 ]
 

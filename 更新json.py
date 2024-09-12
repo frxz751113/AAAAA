@@ -1,6 +1,7 @@
 import json
 import datetime
 import os
+import subprocess
 
 # 读取 JSON 文件路径
 json_file_path = '2.json'
@@ -44,3 +45,8 @@ with open('2.json', 'w') as f:
 # 更新记录时间的文件
 with open(time_file_path, 'w') as time_file:
     time_file.write(current_date)
+
+# 提交代码
+subprocess.run(['git', 'add', json_file_path, time_file_path])
+subprocess.run(['git', 'commit', '-m', 'Updated JSON and time file'])
+subprocess.run(['git', 'push', 'origin', 'main'])

@@ -129,6 +129,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 综艺[720p],http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 超人[720p],http://37.27.111.214:8080/live/110/hls.m3u8
 超人[720p],http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8

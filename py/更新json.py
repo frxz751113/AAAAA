@@ -32,9 +32,7 @@ urls_to_replace = [
     ('综合源1', f"{current_date}综合源1"),
     ('综合源.txt', f"{current_date}综合源.txt"),
     ('组播优选1', f"{current_date}组播优选1"),
-    ('网络收集1', f"{current_date}网络收集1"),
     ('组播优选.txt', f"{current_date}组播优选.txt"),
-    ('网络收集.txt', f"{current_date}网络收集.txt"),
     # 添加更多需要替换的网址和新内容对
 ]
 

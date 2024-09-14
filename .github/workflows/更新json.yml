@@ -3,6 +3,9 @@ name: 更新json
 on:
   schedule:
     - cron: '0 * * * *' # 每小时运行一次
+  workflow_dispatch:
+    分支:
+      - main    
 
 jobs:
   update-file:

@@ -8,6 +8,7 @@ CMUSIC音乐台[720p],http://37.27.111.214:8080/live/72/hls.m3u8
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 公视戏剧[720p],http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
+好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 影剧[720p],http://37.27.111.214:8080/live/88/hls.m3u8
 影剧[720p],http://shuma004.chunfengyun.top:8080/live/88/hls.m3u8
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
@@ -32,6 +33,7 @@ FESTIVAL[720p],http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
 GOOD2[720p],http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD2[720p],http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
 HISTORY[720p],http://37.27.111.214:8080/live/27/hls.m3u8
+HISTORY[720p],http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
 HITS[720p],http://37.27.111.214:8080/live/28/hls.m3u8
 HITS[720p],http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
 HakkaTV[720p],http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
@@ -60,10 +62,10 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
-TVBS新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 TiTV[720p],http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
@@ -75,8 +77,10 @@ momo[720p],http://37.27.111.214:8080/live/3/hls.m3u8
 momo[720p],http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
 nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
+三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立综合[720p],http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
 东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
@@ -96,6 +100,8 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 全球财经[720p],http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
+凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 动漫2[720p],http://37.27.111.214:8080/live/106/hls.m3u8
 动漫2[720p],http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
@@ -122,6 +128,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇台湾[720p],http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
 寰宇财经[720p],http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
+年代新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 幸福空间[720p],http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8

@@ -25,7 +25,7 @@ except FileNotFoundError:
 
 # 获取当前日期时间
 now = datetime.datetime.now()
-current_date = now.strftime("%m%d%H%M")
+current_date = now.strftime("%m%d")
 
 # 定义要替换的网址和对应的新内容
 urls_to_replace = [

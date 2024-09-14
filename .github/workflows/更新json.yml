@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Python script
-      run: python your_script_name.py
+      run: py/更新json.py
 
     - name: Commit changes
       run: |

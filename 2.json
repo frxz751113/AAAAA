@@ -1,5 +1,5 @@
-{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",  #http://ttkx.live:55/lib/drpy_libs/drpy2.min.js
-"lives": [#"playerType": 1,"ua": "okhttp/3.12.13",
+{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",
+"lives": [
 {"name": "综合源","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/湖北内网.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "组播优选","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/组播优选.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -17,8 +17,8 @@
 {"key":"drpy_js_优酷","name":"💥优酷官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"💥腾讯官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"💥芒果官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/百忙无果.js"},
-//{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
+{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key": "荐片杪播","name": "💥超清荐片💥","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/荐片.js"},
 {"key":"索尼资源","name":"💥索尼资源💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/caiji.js","searchable":1,"quickSearch": 1,"filterable": 1,"ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","演唱会","港台三级","西方伦理","日本伦理","韩国伦理","影视解说"]}},
 {"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/woniu.jar"},
@@ -28,7 +28,7 @@
 {"key":"xifan","name":"💥动漫稀饭💥","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/YSZYZ.jar"},
 {"key":"csp_Jianpian","name":"💥荐片秒播💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","categories":["电影","电视剧"],"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar"},
 {"key":"荐片","name":"💥茶秀荐片💥","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/83.jar"},
-//{"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/A.jar"},
+{"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/py/py_cctv.py","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key":"py_cctv_集合","name":"💥央视视频💥","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/央视.js","jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key":"drpy_js_酷狗MV","name":"💥酷狗 MV💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/drpy2.min.js","ext":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/酷狗MV.js"},
@@ -45,8 +45,6 @@
 {"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 {"name": "CGD解析","type":0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
-//{"name":"Json轮询","type":2,"url":"Sequence"},
-//{"name":"超级解析3","type":0,"url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
 {"name": "咸鱼解析","type":0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}}
 ],

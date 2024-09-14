@@ -24,8 +24,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run py
-       run: |
-          python ${{ github.workspace }}/py/更新json.py  
+      run: python ${{ github.workspace }}/py/更新json.py  
 
     - name: Commit changes
       run: |

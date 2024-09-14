@@ -1,5 +1,5 @@
 {"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",  #http://ttkx.live:55/lib/drpy_libs/drpy2.min.js  #https://raw.bgithub.xyz/
-"lives": [#"playerType": 1,"ua": http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api/drpy2.min.js
+"lives": [#"playerType": 1,"ua": 
 {"name": "0914综合源1","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0914综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/湖北内网.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "0914组播优选1","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0914组播优选.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -7,7 +7,7 @@
 ],
 
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/直播转点播.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/tv.json",  "jar": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/直转点.jar"},
-{"key":"hipy_js_短剧TV网","name":"短剧TV网_HIPY","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧TV网.js"},
+{"key":"短剧TV网","name":"💥短剧TV网💥","type":3,"api":"http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧TV网.js"},
     {"key":"豪华资源","name":"💥超级极速💥","type": 1, "api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
 {"key":"荐片","name":"💥荐片秒播💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/drpy2.min.js","ext":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/jianpian.js"},
 {"key":"文采","name":"💥文采秒播💥","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/ttkx.jar"},

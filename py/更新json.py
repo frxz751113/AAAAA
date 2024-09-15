@@ -24,7 +24,8 @@ except FileNotFoundError:
     last_update_time = ""
 
 # 获取当前日期时间
-now = datetime.datetime.now()
+import datetime
+now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
 current_date = now.strftime("%m%d")
 
 # 定义要替换的网址和对应的新内容

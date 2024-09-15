@@ -3,10 +3,10 @@ import os
 import replace
 import fileinput
 ############################################################################排序############################################################################################################
-with open('TW.txt', 'r', encoding='UTF-8') as f:
+with open('TWW.txt', 'r', encoding='UTF-8') as f:
     lines = f.readlines()
 lines.sort()
-with open('TW.txt', 'w', encoding='UTF-8') as f:
+with open('TWW.txt', 'w', encoding='UTF-8') as f:
     for line in lines:
         f.write(line)
 
@@ -40,8 +40,8 @@ def check_and_write_file(input_file, output_file, keywords):
         print(f"文件已提取关键词并保存为: {output_file}")
 
 # 按类别提取关键词并写入文件
-check_and_write_file('TW.txt',  'a0.txt',  keywords="港澳频道, AMC, 功夫台, 戏剧, 中视经典, 影剧, 影视, 影迷, 电影, 龙华电影台, ASTRO, 音乐台, 开码, 影迷, 经典")
-check_and_write_file('TW.txt',  'a.txt',  keywords="港澳频道, ,")
+check_and_write_file('TWW.txt',  'a0.txt',  keywords="港澳频道, AMC, 功夫台, 戏剧, 中视经典, 影剧, 影视, 影迷, 电影, 龙华电影台, ASTRO, 音乐台, 开码, 影迷, 经典")
+check_and_write_file('TWW.txt',  'a.txt',  keywords="港澳频道, ,")
 
 
 
@@ -58,14 +58,14 @@ for file_path in file_paths:
     else:                # 如果文件不存在，则提示异常并打印提示信息
         print(f"文件 {file_path} 不存在，跳过")
 # 写入合并后的文件
-with open("TW.txt", "w", encoding="utf-8") as output:
+with open("TWW.txt", "w", encoding="utf-8") as output:
     output.write(''.join(file_contents))#\n
 
 ###############################################################################################################################################################################################################################
 
 
 # 打开文档并读取所有行 
-with open('TW.txt', 'r', encoding="utf-8") as file:
+with open('TWW.txt', 'r', encoding="utf-8") as file:
  lines = file.readlines()
 # 使用列表来存储唯一的行的顺序 
  unique_lines = [] 
@@ -76,7 +76,7 @@ for line in lines:
   unique_lines.append(line)
   seen_lines.add(line)
 # 将唯一的行写入新的文档 
-with open('TW.txt', 'w', encoding="utf-8") as file:
+with open('TWW.txt', 'w', encoding="utf-8") as file:
  file.writelines(unique_lines)
 ####################################################
 #####################################定义替换规则的字典,对整行内的多余标识内容进行替换
@@ -84,10 +84,10 @@ replacements = {
         ",ht": ",ht"
 }
 # 打开原始文件读取内容，并写入新文件
-with open('TW.txt', 'r', encoding='utf-8') as file:
+with open('TWW.txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
 # 创建新文件并写入替换后的内容
-with open('TW.txt', 'w', encoding='utf-8') as new_file:
+with open('TWW.txt', 'w', encoding='utf-8') as new_file:
     for line in lines:
         for old, new in replacements.items():
             line = line.replace(old, new)

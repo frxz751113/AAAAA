@@ -378,9 +378,7 @@ CETV4,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u
 动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-动作电影,http://tv6.blcu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/59799779bf-0-0-46589e4cd4a185d126f36ac81a80255f/index.m3u8
 动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-高清电影,http://tv6.blcu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/a51d115379-0-0-2d3f80b098bcb9a30d9368695375926f/index.m3u8
 家庭剧场,http://[2409:8087:1a01:df::4001]/TVOD/88888888/224/3221225538/main.m3u8
 家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -391,7 +389,6 @@ CETV4,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u
 家庭剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000108/index.m3u8
 家庭剧场,http://home.isvvv.com:5050/itv/ystenlive/1000000004000008284
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-家庭影院,http://tv6.blcu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/452c80009b-0-0-e2338fa7fa61d532e85364bf7f77a71e/index.m3u8
 家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 影迷电影,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1345

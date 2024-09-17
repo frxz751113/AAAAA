@@ -2,7 +2,7 @@ name: 更新json
 
 on:
   schedule:
-    - cron: '30 11 * * *' # 每小时运行一次
+    - cron: '20 23 * * *' # 每小时运行一次
   workflow_dispatch:
     分支:
       - main    

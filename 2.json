@@ -1,9 +1,9 @@
-{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",  #http://ttkx.live:55/lib/drpy_libs/drpy2.min.js  #https://raw.bgithub.xyz/
+{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",  #http://diyp2.112114.xyz/?ch={name}&date={date}
 "lives": [#"playerType": 1,"ua": 
-{"name": "0918综合源1","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/湖北内网","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "组播优选","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918组播优选.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "网络收集","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918网络收集.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name": "0918综合源1","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918综合源.txt","epg": "http://diyp2.112114.xyz/","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/湖北内网","epg": "http://diyp2.112114.xyz/","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "组播优选","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918组播优选.txt","epg": "http://diyp2.112114.xyz/","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "网络收集","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/0918网络收集.txt","epg": "http://diyp2.112114.xyz/","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/直播转点播.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/tv.json",  "jar": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/直转点.jar"},

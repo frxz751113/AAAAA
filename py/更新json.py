@@ -30,7 +30,6 @@ current_date = now.strftime("%m%d")
 
 # 定义要替换的网址和对应的新内容
 urls_to_replace = [
-    ('综合源1', f"{current_date}综合源1"),
     ('综合源.txt', f"{current_date}综合源.txt"),
     ('组播优选.txt', f"{current_date}组播优选.txt"),
     ('网络收集.txt', f"{current_date}网络收集.txt"),

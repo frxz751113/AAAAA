@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视频道,#genre#,http://diyp2.112114.xyz/?ch={name}&date={date}&timeOffset=-25
 ﻿CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回放
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?

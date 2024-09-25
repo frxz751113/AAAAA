@@ -7,6 +7,7 @@
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8

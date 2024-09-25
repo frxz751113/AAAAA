@@ -10,6 +10,17 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚电影台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKtIenAsKhGIKE3dj_eOtDtE/.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+Now星影台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKhKooVmxbSjHc3CHgqyEsaE/.m3u8
+TVB翡翠台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuwvEDnUT3dm7ytVCbr62Ow/.m3u8
+TVB翡翠台4K测试,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
+TVB明珠台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs3NGNIcqABaNKAUi67bA9Y/.m3u8
+凤凰卫视中文台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmy2cCp_f3VN4plMYS70Xnw/.m3u8
+凤凰卫视资讯台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKm1g6xmhPbXF9bt061UmS1s/.m3u8
+凤凰中文,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKjsHpwHNZDHE5L_aeueDLys/.m3u8
+凤凰资讯,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs5v52FoFMRpKEbFHPGGL14/.m3u8
+华语剧台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKllfYuMbeCbpbwg6ZyVp8pw/.m3u8
+天映经典频道,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKkRZLicPC2Y32JiVU2u9FXk/.m3u8
+无线新闻台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgwV4TJIF_9h7joKw3O6VW4/.m3u8
 LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 US|StarMovies,http://doubleclicktv.live/70376812/52663544/276996

@@ -28,8 +28,8 @@ jobs:
       - name: Run iptv
         run: python ${{ github.workspace }}/IPTV/V4检测优选.py
 
-      - name: Run iptv
-        run: python ${{ github.workspace }}/IPTV/分类去重.py
+      #- name: Run iptv
+        #run: python ${{ github.workspace }}/IPTV/分类去重.py
 
       # 提交和推送的步骤，不再检查文件是否发生变化
       - name: Commit and push changes

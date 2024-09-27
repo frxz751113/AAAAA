@@ -1,4 +1,4 @@
-{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/B.jar",
+{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",
 "lives": [
 {"name": "综合源","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/湖北移动内网.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -19,90 +19,7 @@
 {"key":"drpy_js_百忙无果","name":"💥芒果官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/百忙无果.js"},
 //{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
-    {
-      "key": "Wexalllive",
-      "name": "💓‍聚合┃直播💓‍",
-      "type": 3,
-      "api": "csp_Wexalllive",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "115",
-      "name": "💓‍115┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wex115share",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 50,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "土豆",
-      "name": "💓土豆┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wextudou",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexnullname",
-      "name": "💓无名┃4K💓",
-      "type": 3,
-      "api": "csp_Wexnullname",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexwanni",
-      "name": "💓玩你┃4K💓",
-      "type": 3,
-      "api": "csp_Wexwanni",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexmuougg",
-      "name": "💓木偶┃4K💓",
-      "type": 3,
-      "api": "csp_Wexmuougg",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexlabi",
-      "name": "💓蜡笔┃4K💓",
-      "type": 3,
-      "api": "csp_Wexlabi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexzhizhen",
-      "name": "💓至臻┃4K💓",
-      "type": 3,
-      "api": "csp_Wexzhizhen",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexxingyun",
-      "name": "💓幸运┃4K💓",
-      "type": 3,
-      "api": "csp_Wexxingyun",
-      "searchable": 1,
-      "changeable": 1
-    },
+
  {
       "key": "Wexbaipiao",
       "name": "🎇星星┃秒播🎇",

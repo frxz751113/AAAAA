@@ -1,4 +1,4 @@
-{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",
+{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/B.jar",
 "lives": [
 {"name": "综合源","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/湖北移动内网.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -19,6 +19,221 @@
 {"key":"drpy_js_百忙无果","name":"💥芒果官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/百忙无果.js"},
 //{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
+    {
+      "key": "Wexalllive",
+      "name": "💓‍聚合┃直播💓‍",
+      "type": 3,
+      "api": "csp_Wexalllive",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "115",
+      "name": "💓‍115┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wex115share",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "土豆",
+      "name": "💓土豆┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wextudou",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexnullname",
+      "name": "💓无名┃4K💓",
+      "type": 3,
+      "api": "csp_Wexnullname",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexwanni",
+      "name": "💓玩你┃4K💓",
+      "type": 3,
+      "api": "csp_Wexwanni",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexmuougg",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_Wexmuougg",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexlabi",
+      "name": "💓蜡笔┃4K💓",
+      "type": 3,
+      "api": "csp_Wexlabi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexzhizhen",
+      "name": "💓至臻┃4K💓",
+      "type": 3,
+      "api": "csp_Wexzhizhen",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxingyun",
+      "name": "💓幸运┃4K💓",
+      "type": 3,
+      "api": "csp_Wexxingyun",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {
+      "key": "Wexbaipiao",
+      "name": "🎇星星┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wex4Kav",
+      "name": "🎇急速┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wex4Kav",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Subaibai",
+      "name": "🎇拜拜┃秒播🎇",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexsaohuo",
+      "name": "🎇火火┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexzxzj",
+      "name": "🎇外剧┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexzxzj",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbaozitv",
+      "name": "🎇包子┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbaozitv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🎇伯伯┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "哔嘀影视",
+      "name": "🎇喇叭┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Diduanys",
+      "name": "🎇深渊┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexDiduanys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "F4kvm",
+      "name": "🎇纯享┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbttwo",
+      "name": "🎇大鼻涕┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbttwo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexdyxs",
+      "name": "🎇先生┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexdyxs",
+      "searchable": 1,
+      "changeable": 1
+    },
+        {
+      "key": "Wexduanjuvop",
+      "name": "🍉短剧┃秒播🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuvop",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuhema",
+      "name": "🍉短剧┃仙品🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanju001",
+      "name": "🍉短剧┃极品🍉",
+      "type": 3,
+      "api": "csp_Wexduanju001",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuvip",
+      "name": "🍉短剧┃精品🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "searchable": 1,
+      "changeable": 1
+    },
+    
+    
+    
 {"key": "荐片杪播","name": "💥超清荐片💥","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/荐片.js"},
 {"key":"索尼资源","name":"💥索尼资源💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/caiji.js","searchable":1,"quickSearch": 1,"filterable": 1,"ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","演唱会","港台三级","西方伦理","日本伦理","韩国伦理","影视解说"]}},
 {"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/woniu.jar"},

@@ -1,4 +1,4 @@
-{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/极速.jar",
+{"spider": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/B.jar",
 "lives": [
 {"name": "综合源","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/IPTVzb1/main/综合源.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "湖北移动内网","type": 0,"pass": true,"ua": "okhttp/3.12.13","url": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/湖北移动内网.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},

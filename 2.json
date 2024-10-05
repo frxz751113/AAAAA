@@ -17,16 +17,7 @@
 {"key":"drpy_js_百忙无果","name":"💥芒果官方💥","type":3,"api":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.bgithub.xyz/hjdhnx/dr_py/main/js/百忙无果.js"},
 //{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
-    {
-      "key":"csp_sp_腾讯视频",
-      "name":"🐧官方┃腾讯视频",
-      "type":3,
-      "api":"csp_QQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "https://raw.bgithub.xyz/cnnbgo/tvbox/faff72949166f91a38694c72bc59d71b63ce2312/wh/jar/loamen_spider.jar"
-    },
+{"key":"csp_sp_腾讯视频","name":"💥腾讯视频💥","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.bgithub.xyz/cnnbgo/tvbox/faff72949166f91a38694c72bc59d71b63ce2312/wh/jar/loamen_spider.jar"},
 {"key": "荐片杪播","name": "💥超清荐片💥","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://raw.bgithub.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/荐片.js"},
 {"key":"索尼资源","name":"💥索尼资源💥","type":3,"api":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/js/caiji.js","searchable":1,"quickSearch": 1,"filterable": 1,"ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","演唱会","港台三级","西方伦理","日本伦理","韩国伦理","影视解说"]}},
 {"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.bgithub.xyz/frxz751113/AAAAA/main/ZIP/woniu.jar"},

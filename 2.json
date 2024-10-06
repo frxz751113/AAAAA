@@ -41,12 +41,12 @@
 ],
 "parses": [{"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
 {"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
-{"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
+{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+{"name":"爱豆解析","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 {"name": "CGD解析","type":0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-//{"name":"超级解析3","type":0,"url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
-{"name": "咸鱼解析","type":0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
-{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}}
+{"name":"超级解析3","type":0,"url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
+{"name": "咸鱼解析","type":0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","leshi","letv","bilibili1","imgo","sohu","tudou","douyin","pptv","mgtv","wasu"],
     "rules":[

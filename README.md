@@ -2,6 +2,8 @@ Github RAW 加速服务
 
 https://gitdl.cn/源码 
 
+https://github.moeyy.xyz/源码 
+
 https://ghproxy.net/源码 
 
 https://gcore.jsdelivr.net/gh/用户名/仓库名/main/接口文件

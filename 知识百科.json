@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/ZIP/spider.jar",
+  "spider": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/spider.jar",
   "lives": [
     {
       "name": "live",
@@ -16,7 +16,7 @@
       "key": "电视",
       "name": "💻电视直播",
       "type": 3,
-      "api": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/直播转点播.js",
+      "api": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/直播转点播.js",
       "ext": "极速央卫$http://adultiptv.net/lists/all.m3u"
     },
     {
@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/知识.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/知识.json",
       "jar": ""
     },
     {
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/少儿.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/少儿.json",
       "jar": ""
     },
     {
@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小学.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小学.json",
       "jar": ""
     },
     {
@@ -60,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/初中.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/初中.json",
       "jar": ""
     },
     {
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/高中.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/高中.json",
       "jar": ""
     },
     {
@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/幼小衔接.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/幼小衔接.json",
       "jar": ""
     },
     {
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/幼儿启蒙.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/幼儿启蒙.json",
       "jar": ""
     },
     {
@@ -104,8 +104,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/兔小贝.json",
-      "jar": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/spider.jar"
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/兔小贝.json",
+      "jar": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/spider.jar"
     },
     {
       "key": "csp_hiker_兔小贝2",
@@ -115,8 +115,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/兔小贝2.json",
-      "jar": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/spider.jar"
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/兔小贝2.json",
+      "jar": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/spider.jar"
     },
     {
       "key": "小灯塔",
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小灯塔百科.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小灯塔百科.json",
       "jar": ""
     },
     {
@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小灯塔科学.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小灯塔科学.json",
       "jar": ""
     },
     {
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小灯塔地理.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小灯塔地理.json",
       "jar": ""
     },
     {
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小灯塔国学.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小灯塔国学.json",
       "jar": ""
     },
     {
@@ -170,7 +170,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小灯塔人文.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小灯塔人文.json",
       "jar": ""
     },
     {
@@ -181,7 +181,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童拼音.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童拼音.json",
       "jar": ""
     },
     {
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童识字.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童识字.json",
       "jar": ""
     },
     {
@@ -203,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童英语.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童英语.json",
       "jar": ""
     },
     {
@@ -214,7 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童硬笔.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童硬笔.json",
       "jar": ""
     },
     {
@@ -225,7 +225,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童思维.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童思维.json",
       "jar": ""
     },
     {
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童口才.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童口才.json",
       "jar": ""
     },
     {
@@ -247,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童编程.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童编程.json",
       "jar": ""
     },
     {
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/儿童武术.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/儿童武术.json",
       "jar": ""
     },
     {
@@ -269,7 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/兴趣培养.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/兴趣培养.json",
       "jar": ""
     },
     {
@@ -280,7 +280,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/央视经典.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/央视经典.json",
       "jar": ""
     },
     {
@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/益智动画.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/益智动画.json",
       "jar": ""
     },
     {
@@ -302,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小学语文.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小学语文.json",
       "jar": ""
     },
     {
@@ -313,7 +313,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小学数学.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小学数学.json",
       "jar": ""
     },
     {
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小学英语.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小学英语.json",
       "jar": ""
     },
     {
@@ -335,7 +335,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/hjdhnx/dr_py/main/json/小学教育.json",
+      "ext": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/小学教育.json",
       "jar": ""
     }
   ],

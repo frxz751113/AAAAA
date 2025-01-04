@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://adultiptv.net/vods.m3u8",
+      "url": "http://adultiptv.net/vods.m3u8备",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "https://epg.112114.eu.org",
@@ -17,7 +17,7 @@
       "name": "💻电视直播",
       "type": 3,
       "api": "https://gh.aptv.app/https://raw.githubusercontent.com/frxz751113/AAAAA/refs/heads/main/js/直播转点播.js",
-      "ext": "极速央卫$http://adultiptv.net/lists/all.m3u"
+      "ext": "极速央卫$http://adultiptv.net/lists/all.m3u备"
     },
     {
       "key": "知识",

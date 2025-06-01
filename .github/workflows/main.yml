@@ -2,7 +2,7 @@ name: 有效性检测
 
 on:
   schedule:
-    - cron: '10 11 * * *' # 这里更改自动运行的时间
+    - cron: '0 */12 * * *' # 这里更改自动运行的时间，每12小时运行一次
   workflow_dispatch:
     branches:
       - main

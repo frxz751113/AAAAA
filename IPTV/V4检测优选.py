@@ -16,7 +16,7 @@ import time
 
 
 # 函数：获取视频分辨率
-def get_video_resolution(video_path, timeout=0.8):
+def get_video_resolution(video_path, timeout=3):
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         return None

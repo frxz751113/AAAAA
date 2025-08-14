@@ -36,7 +36,7 @@ def process_line(line, output_file, order_list, valid_count, invalid_count, tota
     elif len(parts) == 2:
         channel_name, channel_url = parts
         resolution = get_video_resolution(channel_url, timeout=8)
-        if resolution and resolution[1] >= 720:  # 检查分辨率是否大于等于720p
+        if resolution and resolution[1] >= 540:  # 检查分辨率是否大于等于720p
             with threading.Lock():
                 output_file.write(f"{channel_name}[{resolution[1]}p],{channel_url}\n")
                 order_list.append((channel_name, resolution[1], channel_url))
@@ -140,7 +140,7 @@ with open(output_file_path, 'w', encoding='utf-8') as output_file:
                 start_time = time.time()
                 frame_count = 0
                 # 尝试捕获10秒内的帧
-                while frame_count < 200 and (time.time() - start_time) < 10:
+                while frame_count < 100 and (time.time() - start_time) < 10:
                     ret, frame = cap.read()
                     if not ret:
                         break

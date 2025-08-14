@@ -148,7 +148,7 @@ with open(output_file_path, 'w', encoding='utf-8') as output_file:
                 # 释放资源
                 cap.release()
                 # 根据捕获的帧数判断状态并记录结果
-                if frame_count >= 200:  #10秒内超过230帧则写入
+                if frame_count >= 100:  #10秒内超过230帧则写入
                     detected_ips[ip_key] = {'status': 'ok'}
                     output_file.write(line)  # 写入检测通过的行
                 else:
